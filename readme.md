@@ -7,7 +7,7 @@
 ### Composer
 
 ```bash
-	composer require sameervirus/laravel-hijri-dates
+	composer require sameervirus/laravel-hijri-dates-fork
 ```
 
 ### Service Provider
